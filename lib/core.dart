@@ -7,12 +7,15 @@ export 'package:baca_quran/module/home/controller/home_controller.dart';
 export 'package:baca_quran/module/home/view/home_view.dart';
 
 /*
-Services API
+Data API
 */
 export 'package:baca_quran/data/api/api.dart';
 
 /*
+Data Models
+*/
+export 'package:baca_quran/data/models/surat_model.dart';
+
+/*
 Plugins
 */
-export 'package:flutter/material.dart';
-export 'package:get/get.dart';
