@@ -1,21 +1,5 @@
-import 'package:get/get.dart';
-import '../view/detail_surat_view.dart';
+import 'package:baca_quran/core.dart';
 
 class DetailSuratController extends GetxController {
   DetailSuratView? view;
-
-  @override
-  void onInit() {
-    super.onInit();
-  }
-
-  @override
-  void onReady() {
-    super.onReady();
-  }
-
-  @override
-  void onClose() {
-    super.onClose();
-  }
 }

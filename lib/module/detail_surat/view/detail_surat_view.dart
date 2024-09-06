@@ -1,7 +1,4 @@
-import 'package:flutter/material.dart';
-import '../controller/detail_surat_controller.dart';
 import 'package:baca_quran/core.dart';
-import 'package:get/get.dart';
 
 class DetailSuratView extends StatelessWidget {
   const DetailSuratView({super.key});
@@ -20,8 +17,8 @@ class DetailSuratView extends StatelessWidget {
           body: SingleChildScrollView(
             child: Container(
               padding: const EdgeInsets.all(20.0),
-              child: Column(
-                children: const [],
+              child: const Column(
+                children: [],
               ),
             ),
           ),
