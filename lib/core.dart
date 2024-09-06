@@ -9,7 +9,7 @@ export 'package:baca_quran/module/home/view/home_view.dart';
 /*
 Services API
 */
-export 'package:baca_quran/services/api/api.dart';
+export 'package:baca_quran/data/api/api.dart';
 
 /*
 Plugins
